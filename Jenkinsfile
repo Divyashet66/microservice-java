@@ -68,7 +68,7 @@ pipeline {
 
                 
 
-                    waitForQualityGate abortPipeline: false                  
+                    waitForQualityGate abortPipeline: true                  
 
                 }
 
