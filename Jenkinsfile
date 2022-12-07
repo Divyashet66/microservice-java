@@ -34,7 +34,7 @@ pipeline {
 
             steps{
 
-                withSonarQubeEnv('sonarqube-9.6') { 
+                withSonarQubeEnv('sonarqube-9.7.1') { 
 
                           //sh "sudo rm ~/.m2/repository/org/owasp/dependency-check-data/7.0/jsrepository.json"
 
