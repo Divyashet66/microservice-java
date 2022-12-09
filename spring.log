@@ -21,3 +21,11 @@
 2022-12-09 21:51:56.474  INFO 240458 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
 2022-12-09 21:51:56.499  INFO 240458 --- [http-nio-8080-exec-1] com.example.springboot.HelloController   : Server is running on port 8080
 2022-12-09 21:52:51.708  INFO 240458 --- [http-nio-8080-exec-2] com.example.springboot.HelloController   : Server is running on port 8080
+2022-12-09 23:13:59.259  INFO 271753 --- [main] c.e.springboot.HelloControllerTest       : Starting HelloControllerTest using Java 17.0.5 on IND040100591 with PID 271753 (started by niveus in /home/niveus/test-java/microservice-java)
+2022-12-09 23:13:59.268  INFO 271753 --- [main] c.e.springboot.HelloControllerTest       : No active profile set, falling back to 1 default profile: "default"
+2022-12-09 23:14:04.741  INFO 271753 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2022-12-09 23:14:04.742  INFO 271753 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2022-12-09 23:14:04.764  INFO 271753 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-12-09 23:14:04.802  INFO 271753 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 59 ms
+2022-12-09 23:14:04.901  INFO 271753 --- [main] c.e.springboot.HelloControllerTest       : Started HelloControllerTest in 6.832 seconds (JVM running for 12.53)
+2022-12-09 23:14:06.567  INFO 271753 --- [main] com.example.springboot.HelloController   : Server is running on port 8080
